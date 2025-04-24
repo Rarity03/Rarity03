@@ -9,9 +9,11 @@
 <div id="user-content-toc"> 
   <ul align="center"> 
     <summary>
-      <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
+      <div>
+        <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
+        <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
+      </div>
     </summary> 
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
   </ul> 
 </div> 
 
