@@ -87,7 +87,10 @@
 ## Spotify Playing 🎧
 
 [![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" align="right" />
+<div>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" align="right" />
+</div>
+
 
 ---
 
