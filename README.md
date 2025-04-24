@@ -84,7 +84,6 @@
 --- 
 
 ## Spotify Reproduciendo 🎧 
-[![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
 <div style="display: flex; align-items: center; justify-content: space-between;"> 
   <a href="https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy"> 
     <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify ahora en reproducción" /> 
