@@ -79,7 +79,7 @@
       <img alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
     </a>
   </div>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100" />
 </div>
 
 ---
