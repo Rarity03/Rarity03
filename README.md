@@ -85,7 +85,7 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](spotify-player-plum.vercel.app)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
+[![Spotify](https://spotify-player-plum.vercel.app)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
