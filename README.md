@@ -87,10 +87,12 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;"> 
   <a href="https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy"> 
-    <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify ahora en reproducción" /> 
+    <img src="" alt="Spotify ahora en reproducción" /> 
   </a> 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" /> 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" /> 
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" /> 
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" /> 
+  </div>
 </div>
 
 ---
