@@ -56,7 +56,9 @@
     <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
   </a>
 </p> 
+
 ---
+
 ## 📊 &nbsp;Mis actividades
 <div>
   <a href="https://github.com/Rarity03">
@@ -66,7 +68,9 @@
     <img align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
+
 ---
+
 ### 🤝 &nbsp;>Mi contacto
 
 <p align="center">
