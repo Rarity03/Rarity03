@@ -22,7 +22,7 @@
   </ul>
 </div>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; justify-content: space-around; flex-row: wrap; align-items: center;">
   <!-- Frontend -->
   <div style="text-align: center;">
     <b>Frontend:</b><br>
