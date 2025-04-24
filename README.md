@@ -63,8 +63,8 @@
 </p> 
 
 
+## 📊 &nbsp;Mis actividades
 <div>
-  ## 📊 &nbsp;Mis actividades
   <a href="https://github.com/Rarity03">
     <img width=450 height=170 align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api?username=Rarity03&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
