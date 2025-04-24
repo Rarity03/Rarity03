@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="240" />
+<img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
