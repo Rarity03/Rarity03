@@ -32,7 +32,7 @@
 💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
 🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
 ✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
-📄 &nbsp;Puedes ver mi [CV](https://www.adityavsingh.com/resume.html) para más detalles.
+📄 &nbsp;Puedes ver mi [CV]() para más detalles.
 
 ---
 
