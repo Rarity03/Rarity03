@@ -1,5 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Full+Stack+Web+Developer;Freelancer;Languages%20|%20Video game development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=600&height=45">
+  </a>
+</p>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1></summary>
@@ -63,7 +69,7 @@
   </a>
 </p> 
 
-
+---
 
 ## 📊 &nbsp;Mis actividades
 <div>
@@ -75,11 +81,18 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="right" />
+
+---
+
 ## Spotify Playing 🎧
 
   [![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" align="right" />
+
+---
 
 ## 🤝 &nbsp;Mi contacto
 
