@@ -81,16 +81,17 @@
       <img alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
     </a>
   </div>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="160" />
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100" />
 </div>
 
 ---
 
 ## Spotify Playing 🎧
-
-[![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
-<div>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" align="right" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href="https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy">
+    <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" />
 </div>
 
 ---
