@@ -12,6 +12,8 @@
   </ul>
 </div>
 
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" /> 
+
 ---
 
 <img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
@@ -89,7 +91,6 @@
     <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify ahora en reproducción" /> 
   </a> 
     <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" /> 
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" /> 
 </div>
 
 ---
