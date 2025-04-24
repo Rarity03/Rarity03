@@ -63,13 +63,25 @@
 </p> 
 
 
+<div>
+  ## 📊 &nbsp;Mis actividades
+  <a href="https://github.com/Rarity03">
+    <img width=450 height=170 align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api?username=Rarity03&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Rarity03">
+    <img align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+
 <!-- Mis contactos -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Mis contactos🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Mi contacto🤝</h2></summary>
   </ul>
 </div>
+
 
 <!-- Redes y contacto -->
 <p align="center">
