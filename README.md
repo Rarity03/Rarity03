@@ -69,27 +69,28 @@
 
 ---
 
-## 📊 &nbsp;Mis actividades
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="max-width: 70%;">
-    <a href="https://github.com/Rarity03">
-      <img width="400" alt="Rarity03" src="https://github-readme-stats.vercel.app/api?username=Rarity03&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-    </a>
-    <a href="https://github.com/Rarity03">
-      <img width="400" alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-    </a>
-  </div>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120" style="margin-left: 20px;" />
-</div>
+## 📊 Mis actividades 
+<div style="display: flex; align-items: center; justify-content: space-between;"> 
+  <div> 
+    <a href="https://github.com/Rarity03"> 
+      <img width="450" ​​​​height="170" alt="Rarity03" src="https://github-readme-stats.vercel.app/api?username=Rarity03&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" /> 
+    </a> 
+    <a href="https://github.com/Rarity03"> 
+      <img alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" /> 
+    </a> 
+  </div> 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100" /> 
+</div> 
 
----
+--- 
 
-## Spotify Playing 🎧
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="120" style="margin-right: 20px;" />
-  <a href="https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy">
-    <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
+## Spotify Reproduciendo 🎧 
+
+<div style="display: flex; align-items: center; justify-content: space-between;"> 
+  <a href="https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy"> 
+    <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify ahora en reproducción" /> 
+  </a> 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" /> 
 </div>
 
 ---
