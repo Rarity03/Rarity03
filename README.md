@@ -8,13 +8,12 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;Actualmente soy estudiante de Ingenieria de Computación en la Universidad Autonoma del Estado de México donde estoy cursando mis ultimos semestres.\
+💡 &nbsp;Me gusta aprender sobre nuevas tecnologias y encontrar soluciones a los problemas que se me presentan.\
+🌱 &nbsp;Actualmente me encuentro aprendiendo nuevas tecnologias y frameworks para mejorar mis habilidades como desarrollador FullStack.\
+✍️ &nbsp;Dedico mi tiempo libre a aprender nuevos idiomas o desarrollar videojuegos por hobby.\
+💬 &nbsp;Estoy abierto a aprender nuevas tecnologias y frameworks para mejorar mis habilidades como desarrollador.\
+📄 &nbsp;Porfavor mira mi [CV](https://www.adityavsingh.com/resume.html) para mas detalles sobre mi.  Estoy abierto a feedback y sugerencias!
 
 
 <div id="user-content-toc">
