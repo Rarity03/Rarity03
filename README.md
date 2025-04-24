@@ -5,7 +5,9 @@
     <summary><h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1></summary>
   </ul>
 </div>
+
 ---
+
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 🎓 &nbsp;Actualmente soy estudiante de Ingenieria de Computación en la Universidad Autonoma del Estado de México donde estoy cursando mis ultimos semestres.\
@@ -16,7 +18,7 @@
 📄 &nbsp;Porfavor mira mi [CV](https://www.adityavsingh.com/resume.html) para mas detalles sobre mi.  Estoy abierto a feedback y sugerencias!
 
 ---
-### 🛠 &nbsp;Mis tecnologias
+## 🛠 &nbsp;Mis tecnologias
 
 <!-- Frontend -->
 <p align="center">
@@ -71,7 +73,7 @@
 
 ---
 
-### 🤝 &nbsp;>Mi contacto
+## 🤝 &nbsp;Mi contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kenneth-mendoza-pliego-7132b7173" target="_blank">
