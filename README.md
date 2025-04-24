@@ -6,12 +6,17 @@
   </a>
 </p>
 
-<div id="user-content-toc" style="text-align: center;">
-  <h1 style="display: inline-block;">Hola 👋, Soy Kenneth</h1>
-  <div>
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" style="margin-top: 10px;" />
-  </div>
-</div>
+<div id="user-content-toc"> 
+  <ul align="center"> 
+    <summary>
+      <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
+    </summary> 
+  </ul> 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" style="margin-top: 10px;" />
+</div> 
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
+
 ---
 
 <img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
