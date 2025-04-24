@@ -11,7 +11,10 @@
     <summary>
       <div>
         <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
-        <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
+        <div style="width: 180px; height: 200px; overflow: hidden; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
+               style="margin-left: -20px; width: 220px;" />
+        </div>
       </div>
     </summary> 
   </ul> 
