@@ -6,11 +6,12 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <h1 style="margin-right: 15px;">Hola 👋, Soy Kenneth</h1>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120" />
+<div id="user-content-toc" style="text-align: center;">
+  <h1 style="display: inline-block;">Hola 👋, Soy Kenneth</h1>
+  <div>
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" style="margin-top: 10px;" />
+  </div>
 </div>
-
 ---
 
 <img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
