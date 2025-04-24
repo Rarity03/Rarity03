@@ -10,11 +10,11 @@
   <ul align="center"> 
     <summary>
       <div>
-        <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
-        <div style="width: 180px; height: 200px; overflow: hidden; display: inline-block;">
+        <div style="width: 50px; height: 200px; overflow: hidden; display: inline-block;">
           <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
-               style="margin-left: -2000px; width: 100px;" />
+               style="margin-left: -50px; width: 200px;" />
         </div>
+        <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
       </div>
     </summary> 
   </ul> 
