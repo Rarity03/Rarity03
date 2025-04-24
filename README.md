@@ -42,7 +42,7 @@
 <p align="center">
   <b>Aprendiendo:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,docker,mysql,reactnative&perline=10" />
+    <img src="https://skillicons.dev/icons?i=astro,docker,mysql&perline=10" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 <p align="center">
   <b>Otras:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,unity,csharp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
   </a>
 </p>
 
