@@ -17,7 +17,7 @@
 💬 &nbsp;Estoy abierto a aprender nuevas tecnologias y frameworks para mejorar mis habilidades como desarrollador.\
 📄 &nbsp;Porfavor mira mi [CV](https://www.adityavsingh.com/resume.html) para mas detalles sobre mi.  Estoy abierto a feedback y sugerencias!
 
----
+
 ## 🛠 &nbsp;Mis tecnologias
 
 <!-- Frontend -->
@@ -59,7 +59,7 @@
   </a>
 </p> 
 
----
+
 
 ## 📊 &nbsp;Mis actividades
 <div>
@@ -71,7 +71,7 @@
   </a>
 </div>
 
----
+
 
 ## 🤝 &nbsp;Mi contacto
 
