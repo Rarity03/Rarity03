@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1></summary>
   </ul>
 </div>
-
+---
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 🎓 &nbsp;Actualmente soy estudiante de Ingenieria de Computación en la Universidad Autonoma del Estado de México donde estoy cursando mis ultimos semestres.\
@@ -15,8 +15,8 @@
 💬 &nbsp;Estoy abierto a aprender nuevas tecnologias y frameworks para mejorar mis habilidades como desarrollador.\
 📄 &nbsp;Porfavor mira mi [CV](https://www.adityavsingh.com/resume.html) para mas detalles sobre mi.  Estoy abierto a feedback y sugerencias!
 
-
-### 🛠 &nbsp;>Mis tecnologias
+---
+### 🛠 &nbsp;Mis tecnologias
 
 <!-- Frontend -->
 <p align="center">
@@ -56,7 +56,7 @@
     <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
   </a>
 </p> 
-
+---
 ## 📊 &nbsp;Mis actividades
 <div>
   <a href="https://github.com/Rarity03">
@@ -66,7 +66,7 @@
     <img align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
-
+---
 ### 🤝 &nbsp;>Mi contacto
 
 <p align="center">
