@@ -77,7 +77,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
   <a href="mailto:kennethkael@gmail.com" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/501173/email.svg" alt="email" height="50" width="50" />
+    <img align="center" src="https://www.svgrepo.com/show/424662/email-newsletter-subscription.svg" alt="email" height="50" width="50" />
   </a>
 </p>
 
