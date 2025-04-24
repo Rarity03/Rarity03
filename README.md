@@ -22,48 +22,45 @@
   </ul>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; align-items: center;">
-  <!-- Frontend -->
-  <div style="text-align: center; flex: 1 1 20%;">
-    <b>Frontend:</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10" />
-    </a>
-  </div>
+<!-- Frontend -->
+<p align="center">
+  <b>Frontend:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10" />
+  </a>
+</p>
 
-  <!-- Backend -->
-  <div style="text-align: center; flex: 1 1 20%;">
-    <b>Backend:</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
-    </a>
-  </div>
+<!-- Backend -->
+<p align="center">
+  <b>Backend:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
+  </a>
+</p>
 
-  <!-- Aprendiendo -->
-  <div style="text-align: center; flex: 1 1 20%;">
-    <b>Aprendiendo:</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=astro,docker,mysql&perline=10" />
-    </a>
-  </div>
+<!-- Aprendiendo -->
+<p align="center">
+  <b>Aprendiendo:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,docker,mysql&perline=10" />
+  </a>
+</p>
 
-  <!-- Herramientas -->
-  <div style="text-align: center; flex: 1 1 20%;">
-    <b>Herramientas:</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,npm&perline=10" />
-    </a>
-  </div>
+<!-- Herramientas -->
+<p align="center">
+  <b>Herramientas:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,npm&perline=10" />
+  </a>
+</p>
 
-  <!-- Otras -->
-  <div style="text-align: center; flex: 1 1 20%;">
-    <b>Otras:</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
-    </a>
-  </div>
-</div>
-
+<!-- Otras -->
+<p align="center">
+  <b>Otras:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
+  </a>
+</p> 
 
 
 <!-- Mis contactos -->
