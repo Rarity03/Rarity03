@@ -71,6 +71,11 @@
   </a>
 </div>
 
+## Spotify Playing 🎧
+
+  [![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 &nbsp;Mi contacto
 
@@ -83,11 +88,4 @@
   </a>
 </p>
 
-## Spotify Playing 🎧
 
-<div align="center">
-  [![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
