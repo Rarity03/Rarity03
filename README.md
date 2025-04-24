@@ -1,5 +1,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=600&height=45">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1></summary>
@@ -8,15 +19,17 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;Sobre mi
+### 👨🏻‍💻 &nbsp;Sobre mí
 
-🎓 &nbsp;Actualmente soy estudiante de Ingenieria de Computación en la Universidad Autonoma del Estado de México donde estoy cursando mis ultimos semestres.\
-💡 &nbsp;Me gusta aprender sobre nuevas tecnologias y encontrar soluciones a los problemas que se me presentan.\
-🌱 &nbsp;Actualmente me encuentro aprendiendo nuevas tecnologias y frameworks para mejorar mis habilidades como desarrollador FullStack.\
-✍️ &nbsp;Dedico mi tiempo libre a aprender nuevos idiomas o desarrollar videojuegos por hobby.\
-💬 &nbsp;Estoy abierto a aprender nuevas tecnologias y frameworks para mejorar mis habilidades como desarrollador.\
-📄 &nbsp;Porfavor mira mi [CV](https://www.adityavsingh.com/resume.html) para mas detalles sobre mi.  Estoy abierto a feedback y sugerencias!
+🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
+💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
+🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
+✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
+📄 &nbsp;Puedes ver mi [CV](https://www.adityavsingh.com/resume.html) para más detalles.
 
+---
+
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
 
 ## 🛠 &nbsp;Mis tecnologias
 
