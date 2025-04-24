@@ -22,45 +22,48 @@
   </ul>
 </div>
 
-<!-- Frontend -->
-<p align="center">
-  <b>Frontend:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10" />
-  </a>
-</p>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+  <!-- Frontend -->
+  <div style="text-align: center;">
+    <b>Frontend:</b><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10" />
+    </a>
+  </div>
 
-<!-- Backend -->
-<p align="center">
-  <b>Backend:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
-  </a>
-</p>
+  <!-- Backend -->
+  <div style="text-align: center;">
+    <b>Backend:</b><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
+    </a>
+  </div>
 
-<!-- Aprendiendo -->
-<p align="center">
-  <b>Aprendiendo:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,docker,mysql&perline=10" />
-  </a>
-</p>
+  <!-- Aprendiendo -->
+  <div style="text-align: center;">
+    <b>Aprendiendo:</b><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=astro,docker,mysql&perline=10" />
+    </a>
+  </div>
 
-<!-- Herramientas -->
-<p align="center">
-  <b>Herramientas:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,npm&perline=10" />
-  </a>
-</p>
+  <!-- Herramientas -->
+  <div style="text-align: center;">
+    <b>Herramientas:</b><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,npm&perline=10" />
+    </a>
+  </div>
 
-<!-- Otras -->
-<p align="center">
-  <b>Otras:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
-  </a>
-</p>
+  <!-- Otras -->
+  <div style="text-align: center;">
+    <b>Otras:</b><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
+    </a>
+  </div>
+</div>
+
 
 
 <!-- Mis contactos -->
@@ -75,9 +78,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kenneth-mendoza-pliego-7132b7173" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="https://github.com/Rarity03" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979050-8f0a7c40-0915-468f-83d5-af8e37f5f580.png" alt="github" height="50" width="50" />
   </a>
   <a href="mailto:kennethkael@gmail.com" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982854-26c9a098-e27f-4d00-82b4-020b1d6c6d62.png" alt="email" height="50" width="50" />
