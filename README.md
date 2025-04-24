@@ -13,7 +13,7 @@
         <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
         <div style="width: 180px; height: 200px; overflow: hidden; display: inline-block;">
           <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
-               style="margin-left: -50px; width: 220px;" />
+               style="margin-left: -200px; width: 220px;" />
         </div>
       </div>
     </summary> 
