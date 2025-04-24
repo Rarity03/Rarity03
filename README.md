@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
+
 
 ## 🛠 &nbsp;Mis tecnologias
 
