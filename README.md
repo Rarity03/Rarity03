@@ -72,7 +72,6 @@
 </div>
 
 
-
 ## 🤝 &nbsp;Mi contacto
 
 <p align="center">
@@ -83,5 +82,9 @@
     <img align="center" src="https://www.svgrepo.com/show/424662/email-newsletter-subscription.svg" alt="email" height="50" width="50" />
   </a>
 </p>
+
+## Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
