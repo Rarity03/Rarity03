@@ -72,15 +72,17 @@
 ---
 
 ## 📊 &nbsp;Mis actividades
-<div>
-  <a href="https://github.com/Rarity03">
-    <img width=450 height=170 align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api?username=Rarity03&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Rarity03">
-    <img align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <a href="https://github.com/Rarity03">
+      <img width="450" height="170" alt="Rarity03" src="https://github-readme-stats.vercel.app/api?username=Rarity03&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    </a>
+    <a href="https://github.com/Rarity03">
+      <img alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    </a>
+  </div>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
 </div>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="right" />
 
 ---
 
