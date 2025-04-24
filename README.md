@@ -16,11 +16,7 @@
 📄 &nbsp;Porfavor mira mi [CV](https://www.adityavsingh.com/resume.html) para mas detalles sobre mi.  Estoy abierto a feedback y sugerencias!
 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Mis tecnologias 🛠</h2></summary>
-  </ul>
-</div>
+### 🛠 &nbsp;>Mis tecnologias
 
 <!-- Frontend -->
 <p align="center">
@@ -54,14 +50,12 @@
   </a>
 </p>
 
-<!-- Otras -->
 <p align="center">
   <b>Otras:</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,unity,c#&perline=10" />
   </a>
 </p> 
-
 
 ## 📊 &nbsp;Mis actividades
 <div>
@@ -73,17 +67,8 @@
   </a>
 </div>
 
+### 🤝 &nbsp;>Mi contacto
 
-<!-- Mis contactos -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Mi contacto🤝</h2></summary>
-  </ul>
-</div>
-
-
-<!-- Redes y contacto -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kenneth-mendoza-pliego-7132b7173" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
@@ -93,5 +78,4 @@
   </a>
 </p>
 
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
