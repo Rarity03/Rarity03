@@ -80,16 +80,13 @@
     <img align="center" alt="Rarity03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rarity03&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
-
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="right" />
 
 ---
 
 ## Spotify Playing 🎧
 
-  [![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
-
-
+[![Spotify](https://spotify-player-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy)
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" align="right" />
 
 ---
@@ -105,4 +102,6 @@
   </a>
 </p>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
